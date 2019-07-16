@@ -45,5 +45,5 @@ func main() {
 
   router := &Router{}
 
-  http.ListenAndServe(":3000", router)
+  http.ListenAndServe(":" + port, router)
 }
