@@ -14,5 +14,9 @@
   "bugs": {
     "url": "https://github.com/cakebin/smush/issues"
   },
-  "homepage": "https://github.com/cakebin/smush#readme"
+  "homepage": "https://github.com/cakebin/smush#readme",
+  "engines": {
+    "node": "10.x",
+    "npm": "6.x"
+  }
 }
